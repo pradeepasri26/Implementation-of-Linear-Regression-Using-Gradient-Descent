@@ -119,24 +119,31 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Output:
 Profit prediction graph:
+
 ![image](https://github.com/pradeepasri26/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433142/61f2309a-a164-41ed-9ecb-1174bd3ca7da)
 
 Compute cost value:
+
 ![image](https://github.com/pradeepasri26/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433142/47a79ca3-7663-4d40-8727-80e87851a507)
 
 h(x) value:
+
 ![image](https://github.com/pradeepasri26/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433142/c0476f04-400b-4333-98bf-708ac099a1e0)
 
 Cost function using Gradient Descent graph:
+
 ![image](https://github.com/pradeepasri26/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433142/c8bf6506-230c-45fd-91e7-c04a3f99991d)
 
 Profit prediction graph:
+
 ![image](https://github.com/pradeepasri26/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433142/ec100c7f-14e1-4686-be05-cc72cf0a4475)
 
 Profit for the population 35,000:
+
 ![image](https://github.com/pradeepasri26/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433142/ea295613-e9ea-4165-a406-d93df550f256)
 
 Profit for the population 70,000:
+
 ![image](https://github.com/pradeepasri26/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/131433142/2be84cb7-45e1-4231-afed-fdbda4dc0da9)
 
 
